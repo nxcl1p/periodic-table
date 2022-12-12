@@ -1,0 +1,222 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Arial', sans-serif;
+	background-color: #44433E;
+}
+
+.clr{
+	clear: both;
+}
+
+/*-----------------------------------------------------------------*/
+
+.f-block{
+	background-color: #838996;
+	padding: 5px 15px 5px 5px;
+}
+
+.f-block:hover{
+	background-color: #C6C9B4;
+	padding: 5px 15px 5px 5px;
+}
+
+.s-block:hover{
+	background-color: #FD8002;
+}
+
+.s-block{
+	background-color: #838996;
+	padding: 5px 15px 5px 5px;
+	display: inline-block;
+}
+.f-block-main:hover{
+	background-color: #C6C9B4;
+}
+
+.f-block-main{
+	padding: 0 45px 0 5px;
+	background-color: #838996;
+}
+
+.d-block{
+	background-color: #838996;
+	padding: 5px 15px 5px 5px;
+}
+
+.d-block:hover{
+	background-color: #92B7C0;
+}
+
+.p-block{
+	background-color: #838996;
+	padding: 5px 15px 5px 5px;
+}
+
+.p-block:hover{
+	background-color: #977CA6;
+}
+
+table{
+	margin-bottom: 5px;
+}
+
+td p{
+	font-size: 12px;
+	width: 50px;
+	color: #fff;
+}
+
+td h1{
+	font-size: 30px;
+	font-weight: 100;
+}
+
+td h2{
+	font-size: 20px;
+	font-weight: 100;
+	color: #fff;
+}
+
+td a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.space{
+	padding: 30px;
+}
+
+.small-text p{
+	font-size: 10px;
+}
+
+.alt-width-small p{
+	width: 45px;
+}
+
+.actinides{
+	width: 68px
+}
+
+.main-table{
+	width: 100%;
+	position: relative;
+}
+
+.second-table{
+	float: right;
+}
+
+.second{
+	position: absolute;
+	width: 100%;
+}
+
+.alt-width-big{
+	width: 55px;
+}
+
+td.s-block:nth-child(2){
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+td.d-block:nth-child(4){
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.second-table td.p-block:nth-child(1){
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.lead p{
+	width: 49px;
+}
+
+.flerovium p{
+	width: 49px;
+}
+
+.hydrogen{
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.helium{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.third{
+	margin: 25px auto 0 auto;
+}
+
+.third-table{
+	margin: 0 auto 5px auto;
+}
+
+td.f-block:first-child{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+td.f-block:last-child{
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
