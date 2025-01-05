@@ -1,2 +1,2 @@
 # periodic-table
-i hate it so much 
+i hate myself for this, but this is a periodic table written in pure HTML + CSS
